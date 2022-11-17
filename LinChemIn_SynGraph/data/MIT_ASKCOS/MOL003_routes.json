@@ -1,0 +1,56 @@
+[
+    {
+        "attributes": {
+            "depth": 1,
+            "precursor_cost": 3.0,
+            "score": null,
+            "cluster_id": null
+        },
+        "smiles": "N[C@@H](CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F",
+        "ppg": 73.0,
+        "as_reactant": 200,
+        "as_product": 778,
+        "properties": null,
+        "terminal": false,
+        "is_chemical": true,
+        "id": "00000000-0000-0000-0000-000000000000",
+        "children": [
+            {
+                "smiles": "NC(=CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F>>N[C@@H](CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F",
+                "tforms": [
+                    "5e1f4b7163488328509bd3e3"
+                ],
+                "tsources": [
+                    "reaxys"
+                ],
+                "template_score": 0.12218056019765806,
+                "plausibility": 0.999881566,
+                "is_reaction": true,
+                "rank": 1,
+                "num_examples": 5,
+                "necessary_reagent": "",
+                "precursor_smiles": "NC(=CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F",
+                "rms_molwt": 405.102429356,
+                "num_rings": 3,
+                "scscore": 4.179839123756686,
+                "id": "50002d81-3dd8-4884-9e28-439824d2e1bd",
+                "children": [
+                    {
+                        "smiles": "NC(=CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F",
+                        "ppg": 3.0,
+                        "as_reactant": 27,
+                        "as_product": 20,
+                        "properties": null,
+                        "terminal": true,
+                        "is_chemical": true,
+                        "id": "468761b9-866e-4c9f-87fb-c2d15bd1b0d6",
+                        "children": []
+                    }
+                ],
+                "forward_score": null,
+                "class_num": null,
+                "class_name": null
+            }
+        ]
+    }
+]

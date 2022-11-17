@@ -1,0 +1,56 @@
+[
+    {
+        "attributes": {
+            "depth": 1,
+            "precursor_cost": 1.0,
+            "score": null,
+            "cluster_id": null
+        },
+        "smiles": "CCc1cccc(CC)c1NC(=O)CCl",
+        "ppg": 39.0,
+        "as_reactant": 65,
+        "as_product": 15,
+        "properties": null,
+        "terminal": false,
+        "is_chemical": true,
+        "id": "00000000-0000-0000-0000-000000000000",
+        "children": [
+            {
+                "smiles": "CCc1cccc(CC)c1N>>CCc1cccc(CC)c1NC(=O)CCl",
+                "tforms": [
+                    "5e1f4b6f634883285099a41a"
+                ],
+                "tsources": [
+                    "reaxys"
+                ],
+                "template_score": 0.04058424209220852,
+                "plausibility": 0.997284114,
+                "is_reaction": true,
+                "rank": 1,
+                "num_examples": 57,
+                "necessary_reagent": "[Cl]~[C]~[C]~[O]",
+                "precursor_smiles": "CCc1cccc(CC)c1N",
+                "rms_molwt": 149.12044948,
+                "num_rings": 1,
+                "scscore": 1.6106687647691922,
+                "id": "a5fbd110-ff25-45be-a14f-a622646b38e4",
+                "children": [
+                    {
+                        "smiles": "CCc1cccc(CC)c1N",
+                        "ppg": 1.0,
+                        "as_reactant": 1183,
+                        "as_product": 95,
+                        "properties": null,
+                        "terminal": true,
+                        "is_chemical": true,
+                        "id": "615987e5-cbef-45ad-81f3-1e767c86fd91",
+                        "children": []
+                    }
+                ],
+                "forward_score": null,
+                "class_num": null,
+                "class_name": null
+            }
+        ]
+    }
+]

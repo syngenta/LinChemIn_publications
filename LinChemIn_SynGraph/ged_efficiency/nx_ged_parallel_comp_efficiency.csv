@@ -1,0 +1,6 @@
+n_routes,method,time_minutes
+2,nx_ged_parallel,0.08584219217300415
+5,nx_ged_parallel,0.3125370462735494
+10,nx_ged_parallel,1.0185811678568522
+20,nx_ged_parallel,1.9140005469322205
+30,nx_ged_parallel,2.748933978875478

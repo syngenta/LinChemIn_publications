@@ -1,0 +1,22 @@
+{
+    "target": "COc1cc(F)ccc1-c1ncnc(Nc2cccc(CS(C)(=N)=O)c2)n1",
+    "search_time": 123.68231868743896,
+    "first_solution_time": 4.16776442527771,
+    "first_solution_iteration": 3,
+    "number_of_nodes": 388,
+    "max_transforms": 7,
+    "max_children": 19,
+    "number_of_routes": 66,
+    "number_of_solved_routes": 30,
+    "top_score": 0.975,
+    "is_solved": true,
+    "number_of_steps": 4,
+    "number_of_precursors": 5,
+    "number_of_precursors_in_stock": 5,
+    "precursors_in_stock": "COc1cc(F)ccc1B(O)O, Clc1ncnc(Cl)n1, NC(=O)C(F)(F)F, CSCc1cccc(N)c1, O=C(OO)c1cccc(Cl)c1",
+    "precursors_not_in_stock": "",
+    "precursors_availability": "zinc;zinc;zinc;zinc;zinc",
+    "policy_used_counts": {
+        "uspto": 387
+    }
+}

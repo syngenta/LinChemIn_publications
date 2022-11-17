@@ -1,0 +1,22 @@
+{
+    "target": "CN1CCC(c2c(O)cc(O)c3c(=O)cc(-c4ccccc4Cl)oc23)C(O)C1",
+    "search_time": 120.6639015674591,
+    "first_solution_time": 0,
+    "first_solution_iteration": 0,
+    "number_of_nodes": 411,
+    "max_transforms": 7,
+    "max_children": 50,
+    "number_of_routes": 74,
+    "number_of_solved_routes": 0,
+    "top_score": 0.7374999999999999,
+    "is_solved": false,
+    "number_of_steps": 4,
+    "number_of_precursors": 4,
+    "number_of_precursors_in_stock": 3,
+    "precursors_in_stock": "COC(=O)c1ccccc1Cl, CC(=O)Cl, CC(=O)Cl",
+    "precursors_not_in_stock": "CC(=O)c1c(O)cc(O)c(C2CCN(C)CC2O)c1O",
+    "precursors_availability": "zinc;zinc;zinc;Not in stock",
+    "policy_used_counts": {
+        "uspto": 410
+    }
+}

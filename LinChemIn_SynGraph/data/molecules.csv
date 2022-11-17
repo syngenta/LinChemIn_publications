@@ -1,0 +1,8 @@
+MOLID	SMILES	InChi Key	PubChem Link
+MOL001	CC(=O)NCC1CN(c2ccc(N3CCOCC3)cc2)C(=O)O1	LEUDKGFPUHLJBJ-UHFFFAOYSA-N	https://pubchem.ncbi.nlm.nih.gov/#query=LEUDKGFPUHLJBJ-UHFFFAOYSA-N
+MOL002	Cc1[nH]c2ccccc2c1CCNCc1ccc(/C=C/C(=O)NO)cc1	FPOHNWQLNRZRFC-ZHACJKMWSA-N	https://pubchem.ncbi.nlm.nih.gov/#query=FPOHNWQLNRZRFC-ZHACJKMWSA-N
+MOL003	N[C@@H](CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F	MFFMDFFZMYYVKS-SECBINFHSA-N	https://pubchem.ncbi.nlm.nih.gov/#query=MFFMDFFZMYYVKS-SECBINFHSA-N
+MOL004	Cc1cccc(C)c1N(CC(=O)Nc1ccc(-c2ncon2)cc1)C(=O)C1CCS(=O)(=O)CC1	MNHNIVNAFBSLLX-UHFFFAOYSA-N	https://pubchem.ncbi.nlm.nih.gov/#query=MNHNIVNAFBSLLX-UHFFFAOYSA-N
+MOL005	CN1CCC(c2c(O)cc(O)c3c(=O)cc(-c4ccccc4Cl)oc23)C(O)C1	BIIVYFLTOXDAOV-UHFFFAOYSA-N	https://pubchem.ncbi.nlm.nih.gov/#query=BIIVYFLTOXDAOV-UHFFFAOYSA-N
+MOL006	COc1cc(F)ccc1-c1ncnc(Nc2cccc(CS(C)(=N)=O)c2)n1	ACWKGTGIJRCOOM-UHFFFAOYSA-N	https://pubchem.ncbi.nlm.nih.gov/#query=ACWKGTGIJRCOOM-UHFFFAOYSA-N
+MOL007	CCc1cccc(CC)c1NC(=O)CCl	LBJVHMAYBNQJBK-UHFFFAOYSA-N	https://pubchem.ncbi.nlm.nih.gov/#query=LBJVHMAYBNQJBK-UHFFFAOYSA-N

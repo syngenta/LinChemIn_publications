@@ -1,0 +1,22 @@
+{
+    "target": "Cc1[nH]c2ccccc2c1CCNCc1ccc(/C=C/C(=O)NO)cc1",
+    "search_time": 120.19553589820862,
+    "first_solution_time": 90.46315836906433,
+    "first_solution_iteration": 32,
+    "number_of_nodes": 184,
+    "max_transforms": 7,
+    "max_children": 12,
+    "number_of_routes": 46,
+    "number_of_solved_routes": 1,
+    "top_score": 0.994039853898894,
+    "is_solved": true,
+    "number_of_steps": 2,
+    "number_of_precursors": 3,
+    "number_of_precursors_in_stock": 3,
+    "precursors_in_stock": "Cc1[nH]c2ccccc2c1CCN, COC(Cl)Cl, O=C(/C=C/c1ccccc1)NO",
+    "precursors_not_in_stock": "",
+    "precursors_availability": "zinc;zinc;zinc",
+    "policy_used_counts": {
+        "uspto": 183
+    }
+}

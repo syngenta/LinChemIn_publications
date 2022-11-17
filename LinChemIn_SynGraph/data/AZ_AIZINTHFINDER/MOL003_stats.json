@@ -1,0 +1,22 @@
+{
+    "target": "N[C@@H](CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F",
+    "search_time": 121.26317811012268,
+    "first_solution_time": 1.274803876876831,
+    "first_solution_iteration": 1,
+    "number_of_nodes": 377,
+    "max_transforms": 7,
+    "max_children": 11,
+    "number_of_routes": 64,
+    "number_of_solved_routes": 10,
+    "top_score": 0.9976287063411217,
+    "is_solved": true,
+    "number_of_steps": 1,
+    "number_of_precursors": 2,
+    "number_of_precursors_in_stock": 2,
+    "precursors_in_stock": "FC(F)(F)c1nnc2n1CCNC2, N[C@@H](CC(=O)O)Cc1cc(F)c(F)cc1F",
+    "precursors_not_in_stock": "",
+    "precursors_availability": "zinc;zinc",
+    "policy_used_counts": {
+        "uspto": 376
+    }
+}

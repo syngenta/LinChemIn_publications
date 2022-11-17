@@ -1,0 +1,22 @@
+{
+    "target": "Cc1cccc(C)c1N(CC(=O)Nc1ccc(-c2ncon2)cc1)C(=O)C1CCS(=O)(=O)CC1",
+    "search_time": 121.33147478103638,
+    "first_solution_time": 20.286114931106567,
+    "first_solution_iteration": 9,
+    "number_of_nodes": 217,
+    "max_transforms": 7,
+    "max_children": 16,
+    "number_of_routes": 45,
+    "number_of_solved_routes": 12,
+    "top_score": 0.994039853898894,
+    "is_solved": true,
+    "number_of_steps": 2,
+    "number_of_precursors": 3,
+    "number_of_precursors_in_stock": 3,
+    "precursors_in_stock": "O=C(O)C1CCS(=O)(=O)CC1, Cc1cccc(C)c1NCC(=O)O, Nc1ccc(-c2ncon2)cc1",
+    "precursors_not_in_stock": "",
+    "precursors_availability": "zinc;zinc;zinc",
+    "policy_used_counts": {
+        "uspto": 216
+    }
+}
